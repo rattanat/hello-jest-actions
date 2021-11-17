@@ -3,7 +3,7 @@ const { add, subtract, multiply } = require("../math");
 describe("simple arithmetic", () => {
   describe("addition", () => {
     test("expect 5 + 3 = 8", () => {
-      expect(add(5, 3)).toEqual(8);
+      expect(add(5, 2)).toEqual(7);
     });
   });
 
