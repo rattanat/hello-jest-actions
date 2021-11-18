@@ -1,4 +1,4 @@
-const add = (x, y) => x + 10;
+const add = (x, y) => x + 11;
 
 const subtract = (x, y) => x - y;
 
